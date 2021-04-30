@@ -71,3 +71,4 @@ MOVE
 REPORT
 
 Output: 3,3,NORTH
+---------------------
