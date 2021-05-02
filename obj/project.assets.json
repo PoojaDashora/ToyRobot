@@ -736,19 +736,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pxd185\\.nuget\\packages\\": {}
+    "C:\\Users\\ppdas\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pooja Dashora\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+      "projectUniqueName": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
       "projectName": "ToyRobot",
-      "projectPath": "C:\\Pooja Dashora\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
-      "packagesPath": "C:\\Users\\pxd185\\.nuget\\packages\\",
-      "outputPath": "C:\\Pooja Dashora\\ToyRobot\\ToyRobot\\obj\\",
+      "projectPath": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+      "packagesPath": "C:\\Users\\ppdas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pxd185\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ppdas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -797,7 +801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
