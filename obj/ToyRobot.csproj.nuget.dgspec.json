@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {}
+    "C:\\Pooja Dashora\\ToyRobot\\ToyRobot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {
+    "C:\\Pooja Dashora\\ToyRobot\\ToyRobot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+        "projectUniqueName": "C:\\Pooja Dashora\\ToyRobot\\ToyRobot.csproj",
         "projectName": "ToyRobot",
-        "projectPath": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+        "projectPath": "C:\\Pooja Dashora\\ToyRobot\\ToyRobot.csproj",
         "packagesPath": "C:\\Users\\ppdas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ppdas\\Downloads\\ToyRobot\\ToyRobot\\obj\\",
+        "outputPath": "C:\\Pooja Dashora\\ToyRobot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
